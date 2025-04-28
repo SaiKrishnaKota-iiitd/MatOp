@@ -91,8 +91,8 @@ These functions are defined in the native library **`libmatop.so`** (loaded at r
 ---
 
 ## Screenshots
-![Matrix Calculator UI](images-ui/WhatsApp Image 2025-04-28 at 19.31.48_f8b0b4d3.jpg)
-![Matrix Calculator UI](images-ui/WhatsApp Image 2025-04-28 at 19.31.49_e6863075.jpg)
+![Matrix Calculator UI](images-ui/img1.jpg)
+![Matrix Calculator UI](images-ui/img2.jpg)
 
 
 ---
